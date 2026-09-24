@@ -1,6 +1,6 @@
 {
-  "build": 2,
-  "version": "1.0.1",
-  "apk": "https://github.com/YasinMohammadMasmoudi/ramme_release-geoservice_stiehl/releases/download/v1.0.1/rammsondierung.apk",
-  "notes": "Versickerungsversuch wurde vollständig entfernt. Punkte werden jetzt direkt als RAMME-Sondierung angelegt."
+  "build": 3,
+  "version": "1.0.2",
+  "apk": "https://github.com/YasinMohammadMasmoudi/ramme_release-geoservice_stiehl/releases/download/v1.0.2/rammsondierung.apk",
+  "notes": "Fehlerbehebungen und Verbesserungen."
 }
