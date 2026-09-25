@@ -1,6 +1,6 @@
 {
   "build": 4,
   "version": "1.0.3",
-  "apk": "https://github.com/YasinMohammadMasmoudi/ramme_release-geoservice_stiehl/releases/download/v1.0.3/rammsondierung.apk",
+  "apk": "https://github.com/YasinMohammadMasmoudi/ramme_release-geoservice_stiehl/releases/download/1.0.3/rammsondierung.apk",
   "notes": "Das Protokoll steht jetzt oben und ist von oben nach unten aufsteigend sortiert (0,00 m zuerst). Zähler und Knopf „Nächste 10 cm\" sind nach unten gewandert."
 }
