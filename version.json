@@ -1,6 +1,6 @@
 {
-  "build": 5,
-  "version": "1.0.4",
-  "apk": "https://github.com/YasinMohammadMasmoudi/ramme_release-geoservice_stiehl/releases/download/v1.0.4/rammsondierung.apk",
-  "notes": "Behoben: Auf Android 14 und neuer blieb das Update bei 100 % hängen. Ab dieser Version öffnet sich der Installationsdialog wieder."
+  "build": 6,
+  "version": "1.0.5",
+  "apk": "https://github.com/YasinMohammadMasmoudi/ramme_release-geoservice_stiehl/releases/download/v1.0.5/rammsondierung.apk",
+  "notes": "Weniger Berechtigungen: das Update braucht keinen Speicher- und keinen System-Installationszugriff mehr. Das verhindert die Warnung „Schädliche App blockiert\" von Google Play Protect."
 }
